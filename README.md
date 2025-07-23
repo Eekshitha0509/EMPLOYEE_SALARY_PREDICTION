@@ -35,6 +35,7 @@ A machine learning-powered web application that predicts whether an employee ear
 
 employee-salary-prediction/
 │
+
 ├── salary_model.pkl # Trained ML model
 
 ├── le_gender.pkl # Gender encoder
