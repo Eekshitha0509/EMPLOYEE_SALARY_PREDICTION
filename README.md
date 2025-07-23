@@ -36,10 +36,16 @@ A machine learning-powered web application that predicts whether an employee ear
 employee-salary-prediction/
 │
 ├── salary_model.pkl # Trained ML model
+
 ├── le_gender.pkl # Gender encoder
+
 ├── le_workclass.pkl # Workclass encoder
+
 ├── le_occupation.pkl # Occupation encoder
+
 ├── app.py # Streamlit web app
+
 ├── salary_prediction.py # Model training script
+
 ├── adult 3.csv # Dataset
 
